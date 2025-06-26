@@ -1,0 +1,16 @@
+name: elen4022_lab3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn=1.2.2
+  - pandas=1.5.3
+  - numpy=1.24.2
+  - matplotlib=3.7.1
+  - pip
+  - pip:
+    - qiskit==1.4.3
+    - qiskit-aer==0.11.0
+    - qiskit-ibm-runtime==0.13.1
+    - qiskit-machine-learning==0.8.2
