@@ -1,5 +1,5 @@
 # Quantum Machine Learning Qiskit
-
+Original repository by Matthew Maccelari
 ## Overview  
 In this repository, quantum-enhanced support vector machines (QSVMs) are explored by embedding classical data into a high-dimensional Hilbert space via a parameterised quantum feature map and comparing performance against a classical RBF-kernel SVM. The programs:  
 1. Clean and preprocess a binary classification dataset.  
