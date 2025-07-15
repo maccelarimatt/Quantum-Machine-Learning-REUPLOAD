@@ -13,7 +13,7 @@ In this repository, quantum-enhanced support vector machines (QSVMs) are explore
 ## Repository Structure  
 ```
 
-ELEN4022_LAB3_2025_MATTHEW_MACCELARI/
+Quantum-Machine-Learning-REUPLOAD/
 ├── README.md
 ├── .env                      ← pinned package versions
 ├── src/
