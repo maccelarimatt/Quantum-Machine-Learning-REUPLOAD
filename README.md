@@ -1,7 +1,7 @@
-# ELEN4022_LAB3_2025_MACCELARI_MATTHEW
+# Quantum Machine Learning Qiskit
 
 ## Overview  
-In this lab, quantum-enhanced support vector machines (QSVMs) are explored by embedding classical data into a high-dimensional Hilbert space via a parameterised quantum feature map and comparing performance against a classical RBF-kernel SVM. The programs:  
+In this repository, quantum-enhanced support vector machines (QSVMs) are explored by embedding classical data into a high-dimensional Hilbert space via a parameterised quantum feature map and comparing performance against a classical RBF-kernel SVM. The programs:  
 1. Clean and preprocess a binary classification dataset.  
 2. Reduce dimensionality with PCA.  
 3. Train and evaluate a QSVM on both a statevector simulator and real IBM quantum hardware.  
